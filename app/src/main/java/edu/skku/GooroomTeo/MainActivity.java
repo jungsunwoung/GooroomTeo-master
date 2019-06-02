@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity
     GoogleMap map;
     double longitude;
     double latitude;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
