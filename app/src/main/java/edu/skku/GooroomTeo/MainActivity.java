@@ -66,6 +66,7 @@ public class MainActivity extends AppCompatActivity
                 Intent intent = new Intent(MainActivity.this, AddActivity.class);
                 startActivity(intent);
             }
+
         });
 
         findbtn = findViewById(R.id.findnear);
